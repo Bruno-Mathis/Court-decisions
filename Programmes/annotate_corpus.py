@@ -5,7 +5,7 @@ import sys
 import time
 
 server        = 'https://sherpa-gpu.kairntech.com/api'
-login_info    = json.dumps({"email": 'bmathis', "password": 'Azanie34!'})
+login_info    = json.dumps({"email": 'request to Kairntech', "password": 'request to Kairntech'})
 headers = {"Accept": "application/json", "Content-Type": "application/json"}
 
 def get_token(server, login_info):
