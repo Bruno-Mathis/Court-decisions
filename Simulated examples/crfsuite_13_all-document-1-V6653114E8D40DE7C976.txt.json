@@ -1,0 +1,42 @@
+[
+{
+  "identifier" : "1-V6653114E8D40DE7C976.txt",
+  "text" : "V6653114E8D40DE7C976D\tTCOM\tDroit bancaire et boursier\t\"\nNUMERO D’INSCRIPTION AU REPERTOIRE GENERAL :2016 000472 \nMINUTE NUMERO \nTRIBUNAL DE COMMERCE DE THONON-LES-BAINS \nJUGEMENT DU 24/11/2016 \nDEMANDEUR (S) : COMPAGNIE GENERALE DE CREDIT AUX PARTICULIERS CREDIPAR \n[…] \n92300 Levallois-Perret \nReprésentant : ASSIER Christian DEFENDEUR (S) : […] \n[…] en personne \nAudience de plaidoiries tenue le 24 novembre 2016 par \nPRESTDENT :Mme Z A B :Mr Lionel ROSSI Mr X Y \nASSISTES DE : Madame Delphine ANCEL faisant fonction de greffier d’audience \nJugement de radiation \nVu le défaut de diligence du demandeur, \nEn conséquence, \nLe tribunal prononce la radiation de l’instance no 2016 000472 \nCOMPAGNIE GENERALE DE CREDIT AUX PARTICULIERS CREDIPAR […] \n92300 Levallois-Perret \nContre \n[…] \nLE SAGE \n[…] \nAinsi fait et prononcé à l’audience publique du tribunal de commerce de Thonon les Bains, du 24/11/2016 \nLe Président, Madame Delp \nne ANCEL Madame Z A CET […] \nSur les dépens, les frais de greffe liquidés s’élèvent à la somme ttc de 88.41€ \nDont TVA : 14.73€\"\t2016-11-24 \n",
+  "annotations" : [ {
+    "start" : 140,
+    "end" : 168,
+    "labelName" : "juridiction",
+    "score" : 1.0,
+    "text" : "COMMERCE DE THONON-LES-BAINS",
+    "label" : "Juridiction"
+  }, {
+    "start" : 256,
+    "end" : 264,
+    "labelName" : "defendeur",
+    "score" : 1.0,
+    "text" : "CREDIPAR",
+    "label" : "Defendeur"
+  }, {
+    "start" : 337,
+    "end" : 339,
+    "labelName" : "demandeur",
+    "score" : 1.0,
+    "text" : "(S",
+    "label" : "Demandeur"
+  }, {
+    "start" : 847,
+    "end" : 877,
+    "labelName" : "juridiction",
+    "score" : 1.0,
+    "text" : "tribunal de commerce de Thonon",
+    "label" : "Juridiction"
+  }, {
+    "start" : 949,
+    "end" : 950,
+    "labelName" : "defendeur",
+    "score" : 1.0,
+    "text" : "A",
+    "label" : "Defendeur"
+  } ]
+}
+]
